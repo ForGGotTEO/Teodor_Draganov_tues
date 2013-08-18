@@ -1,15 +1,15 @@
  <style>
 
     #columns {
-        width: 1000px;
+        width: 1075px;
 	height: 1000px;
     }
 
     #columns .column {
         position: relative;
-        width: 32%;
-        padding: 3%;
-        border: solid 2px #000;
+        width: 31%;
+        padding: 1%;
+        border: solid 1px #000;
     }
 
     #columns .left {
@@ -38,6 +38,6 @@
         <p>Draganov</p>
     </div>
     <div class="right column">
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="http://prikachi.com/images/343/6454343s.jpg" onmouseover="this.src='http://prikachi.com/images/344/6454344F.jpg'" onmouseout="this.src='http://prikachi.com/images/343/6454343s.jpg'" /></a>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="http://prikachi.com/images/803/6458803y.jpg" onmouseover="this.src='http://prikachi.com/images/804/6458804I.jpg'" onmouseout="this.src='http://prikachi.com/images/803/6458803y.jpg'" /></a>
     </div>
 </div>
