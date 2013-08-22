@@ -9,7 +9,7 @@
         position: relative;
         width: 31%;
         padding: 1%;
-        border: solid 1px #000;
+        border: solid 1px blue;
     }
 
     #columns .left {
@@ -27,12 +27,17 @@
 <div id="columns">
 
     <div class="left column">
-        <p>Teodor</p>
+        <p style="color:green;">Teodor</p>
     </div>
     <div class="middle column">
-        <p>Draganov</p>
+        <p style="color:green;">Draganov</p>
     </div>
     <div class="right column">
-<a href="http://www.elsys-bg.org/"><img src="http://prikachi.com/images/803/6458803y.jpg" onmouseover="this.src='http://prikachi.com/images/804/6458804I.jpg'" onmouseout="this.src='http://prikachi.com/images/803/6458803y.jpg'" /></a>
+<a href="http://www.elsys-bg.org/"><img src="http://prikachi.com/images/803/6458803y.jpg" 
+
+onmouseover="this.src='http://prikachi.com/images/804/6458804I.jpg'" 
+
+onmouseout="this.src='http://prikachi.com/images/803/6458803y.jpg'" /></a>
     </div>
 </div>
+
