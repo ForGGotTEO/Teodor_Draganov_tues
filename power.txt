@@ -21,16 +21,11 @@
     #columns .middle {
 	float: left;
     }
-    a.swap {
-    background-image:url(Koga.jpg);
-    }
-
-    a.swap:hover {
-    background-image:url(Slow.jpg);
 }
 </style>
 
 <div id="columns">
+
     <div class="left column">
         <p>Teodor</p>
     </div>
